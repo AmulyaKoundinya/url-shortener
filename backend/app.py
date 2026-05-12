@@ -1,3 +1,4 @@
+# Redis-powered URL shortener backend
 from flask import Flask, request, jsonify, redirect
 from flask_cors import CORS
 import random

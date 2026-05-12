@@ -1,3 +1,4 @@
+// Main dashboard application
 import "./App.css";
 import { useEffect, useState } from "react";
 import StatsCards from "./components/StatsCards";
